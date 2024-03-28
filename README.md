@@ -1,4 +1,4 @@
-# Node.js Weather App
+# Weather App
 
 Welcome to the Node.js Weather App repository!
 
